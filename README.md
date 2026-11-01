@@ -3,5 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hackwithdev/pixelartgifs/main/space/galaxy.gif" alt="Spinning Galaxy Animation" width="600"/>
+  <img src="assets/generated/galaxy_header.svg" alt="Galaxy Profile Header" width="850">
+</p>
+
+<p align="center">
+  <img src="assets/generated/galaxy_arms.svg" alt="Galaxy Arms and Focus" width="850">
 </p>
